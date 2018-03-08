@@ -27,15 +27,18 @@ th {
 	text-align: center;
 	height: 50px;
 	margin:auto;
+	border: 2px solid white;
 }
 
 .col {
 	font-family: 'Comic Sans MS', cursive, sans-serif;
+	font-weight: bold;
     color: #84F2D7;
 	text-align: center;
 	width: 50%;
 	height: 50px;
 	margin:auto;
+	border: 2px solid white;
 }
 
 td {
@@ -44,4 +47,7 @@ td {
 	text-align: center;
 	height: 50px;
 	margin:auto;
+	border: 2px solid white;
+	background-color: black;
+	opacity: .8;
 }
