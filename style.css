@@ -13,14 +13,35 @@ h1 {
 		margin: auto;
 }
 
-table {
+table.center {
     width: 100%;
+	margin: auto;
+	border-collapse: collapse;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 th {
 	font-family: 'Comic Sans MS', cursive, sans-serif;
     color: #59E8CC;
 	text-align: center;
+	height: 50px;
+	margin:auto;
+}
+
+.col {
+	font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #84F2D7;
+	text-align: center;
 	width: 50%;
 	height: 50px;
+	margin:auto;
+}
+
+td {
+	font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #E859D5;
+	text-align: center;
+	height: 50px;
+	margin:auto;
 }
