@@ -15,7 +15,6 @@ h1 {
 
 table.center {
     width: 100%;
-	margin: auto;
 	border-collapse: collapse;
 	margin-left:auto;
 	margin-right:auto;
@@ -35,9 +34,8 @@ th {
 	font-weight: bold;
     color: #84F2D7;
 	text-align: center;
-	width: 50%;
+	width: 20%;
 	height: 50px;
-	margin:auto;
 	border: 2px solid white;
 }
 
@@ -50,4 +48,12 @@ td {
 	border: 2px solid white;
 	background-color: black;
 	opacity: .8;
+}
+
+footer {
+		font-family: 'Comic Sans MS', cursive, sans-serif;
+		color: white;
+		text-align: center;
+		width: 30%;
+		margin: auto;
 }
