@@ -14,5 +14,13 @@ h1 {
 }
 
 table {
-	
+    width: 100%;
+}
+
+th {
+	font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #59E8CC;
+	text-align: center;
+	width: 50%;
+	height: 50px;
 }
